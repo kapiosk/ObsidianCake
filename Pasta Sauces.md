@@ -1,6 +1,10 @@
+---
+tags: my-tag1 my-tag2
+---
+
 ## Understanding pasta
 
-All pasta are noodles but not all noodles are pasta. What makes italian noodles (pasta) different is mainly the use of durum wheat flour.
+All pasta are noodles but not all noodles are pasta. What makes Italian noodles (pasta) different is mainly the use of durum wheat flour.
 
 ## Understanding the sauces
 
