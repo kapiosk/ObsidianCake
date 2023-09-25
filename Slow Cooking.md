@@ -27,3 +27,18 @@ Roast with a bit of oil until GBD
 - Baby potatoes, halved
 - Pearl onions
 
+## Japanese Curry
+
+- Beef chunks, about 1 inch cubes
+- 400ml coconut cream
+- Dried mushrooms
+
+Added at the last half hour:
+
+- Carrots cubed
+- Potatoes cubed
+
+Added at the last 10 minutes:
+
+- Japanese curry cube
+
