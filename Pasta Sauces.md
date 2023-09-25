@@ -1,5 +1,3 @@
-# Pasta Sauces
-
 ## Understanding pasta
 
 All pasta are noodles but not all noodles are pasta. What makes italian noodles (pasta) different is mainly the use of durum wheat flour.
@@ -18,7 +16,7 @@ This is cheese that is aged longer, and thus, has a lower moisture content. They
 
 + **Pecorino Romano**; made by sheep's milk, relatively saltier than other ones.
 
-+ **Parmigiano-Reggiano**; made by cow's milk. Characterised by a sharp, nutty, and savory favour.
++ **Parmigiano-Reggiano**; made by cow's milk. Characterised by a sharp, nutty, and savoury favour.
 
 + **Gorgonzola**; made by cow's milk. It can be buttery or firm, crumbly and quite salty, with a "bite" from its blue veining.
 

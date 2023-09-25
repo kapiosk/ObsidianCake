@@ -1,16 +1,14 @@
-# Sauces
-
 ## Mother sauces
 
 Béchamel, Velouté, Espagnole, Hollandaise, and Tomato. Honorable mention to allemande as one of the initial 4.
 
 ### Roux
 
-Flour and fat cooked together and used to thicken sauces. Different sauces require different _browning_ (white to dark/brown) of the flour and different cuisines use different fats. Usually on a 1:1 ratio by weight, and used with about 1:12 ratio with the liquid you wish to thinken.
+Flour and fat cooked together and used to thicken sauces. Different sauces require different _browning_ (white to dark/brown) of the flour and different cuisines use different fats. Usually on a 1:1 ratio by weight, and used with about 1:12 ratio with the liquid you wish to thicken.
 
 ### Stock (broth / bouillon)
 
-A savory cooking liquid created by simmering various ingredients in water.
+A savoury cooking liquid created by simmering various ingredients in water.
 
 #### Bones
 
