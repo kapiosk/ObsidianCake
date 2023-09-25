@@ -12,11 +12,18 @@ Slow cooking has 2 major goals:
 
 ## Bœuf bourguignon
 
+### For the slow cooker
 
  - Beef chunks, about 1inch cubes
  - Red wine, to half cover
  - Dried mushrooms
  - Dry gravy/stock
 
+### Roast pan
 
+Roast with a bit of oil until GBD
+
+- Baby carrots
+- Baby potatoes, halved
+- Pearl onions
 
